@@ -1,7 +1,7 @@
 # Sentiment Analysis with Naive Bayes
 
 ## About
-This project demonstrates a simple sentiment analysis system using Python. It classifies short movie reviews as `positive` or `negative` using a **Multinomial Naive Bayes** classifier. The project is intended for learning NLP and text classification.
+This project demonstrates a simple sentiment analysis system using Python. It classifies short movie reviews as `positive` or `negative` using a **Multinomial Naive Bayes** classifier. The project is intended for learning NLP and text 
 
 ## Features
 - Converts text reviews into numeric feature vectors using `CountVectorizer`.
